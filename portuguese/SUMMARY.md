@@ -1,10 +1,10 @@
 # Table of contents
 
-## overview
+## Geral
 
-* [📖 Introduction](README.md)
+* [📖 Introdução](README.md)
 
-## Contributing
+## Contribua
 
-* [💡 Introduction](contributing/introduction.md)
-* [🖥 Developers](contributing/developers.md)
+* [💡 Introdução](contribua/introducao.md)
+* [🖥 Devs](contribua/devs.md)
