@@ -6,7 +6,7 @@
 
 ## Contributing
 
-* [💡 Introduction](../contributing/introduction.md)
+* [💡 Introduction](contributing/introduction.md)
 * [🖥 Devs](contributing/devs/README.md)
   * [Backend](contributing/devs/backend/README.md)
     * [Structure](contributing/devs/backend/structure/README.md)

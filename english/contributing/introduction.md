@@ -4,6 +4,6 @@ There are several ways to contribute to the project, you can create a new [issue
 
 [Discord registration form.](https://forms.gle/XUKHWB4tXdf46ZGG6)
 
-#### Follow our project on GitHub
+**Follow our project on GitHub**
 
 {% embed url="https://github.com/LunaCrew" %}
